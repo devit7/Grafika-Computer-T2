@@ -2,7 +2,7 @@ Devit Erlingga Arafiudin
 1201220030
 
 ## 3.1 Derive the midpoint algorithm for drawing lines with a slope between −1 and 0.
-![31.png](31.png)
+![31.png](31.jpeg)
 
 ## 3.2 Apply the structural algorithm in section 3.3 to draw the line in figure 3.6.
 - Tentukan titik ujung garis, (x0, y0) dan (x1, y1).
